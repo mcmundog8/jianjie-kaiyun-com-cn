@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcmundog8.github.io/jianjie-kaiyun-com-cn/sitemap.xml
